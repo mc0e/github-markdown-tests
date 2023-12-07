@@ -2,6 +2,8 @@
 
 There are conflicting statements in docs.github.com pages about whether pipe characters are required at the ends of lines.
 
+Issue submitted at https://github.com/github/docs/issues/30411
+
 ## Code
 
 ```markdown
